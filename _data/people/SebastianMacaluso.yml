@@ -53,7 +53,7 @@ presentations:
     url: https://github.com/SebastianMacaluso/TalksSlides/blob/master/UMassDS.pdf
     meeting: "Data Science Tea UMass"
     meetingurl: https://ds.cs.umass.edu/event/sebastian-macaluso-nyu
-    location: CDS UMass Amherst
+    location: Center for Data Science UMass Amherst
     focus-area: ia
   - title: "Looking into Jets with Machine Learning"
     date: 2019-11-19
